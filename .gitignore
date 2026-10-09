@@ -1,0 +1,10 @@
+﻿# Telephony inventory exports & audit snapshots
+reports/*.csv
+*.csv
+*.log
+
+# Editor and IDE metadata
+.vscode/
+.idea/
+*.suo
+*.user
